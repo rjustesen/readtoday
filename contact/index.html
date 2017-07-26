@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+
+
+
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<title>Read Today</title>
+    <link rel="stylesheet" href="../static/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="../static/css/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" href="../static/css/main.css"/>
+    
+    <link rel="stylesheet" href="../static/css/page.css"/>
+
+    
+    <!--[If lte IE10]>
+        <link rel="stylesheet" href="/static/css/ie.css" type="text/css">
+    <![endif]-->    
+    
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>    
+    <script type="text/javascript" src="../static/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="../static/js/jquery.validate.min.js"></script>
+    
+   
+
+ <script type="text/javascript">
+		
+		$(document).ready(function() {
+					jQuery.support.cors = true;
+					
+					 // validate signup form on keyup and submit
+            $("#contact-form").validate({
+                onkeyup: false,
+             rules: {
+             		 id_name: {
+                     required: true,
+                     minlength: 2,
+                 },
+
+								 id_subject: {
+                     required: true,
+                     minlength: 2,
+                 },
+                 id_email: {
+                     required: true,
+                     minlength: 2,
+                     email: true
+                 },
+             },
+             messages: {
+             			id_name: {
+                       required: "Please provide a name",
+                   }, 
+                   id_subject: {
+                       required: "Please provide a subject",
+                   }, 
+                   id_email: {
+                       required: "Please provide an email address",
+                   }, 
+             }
+         });
+         
+					 $("#contact-form").submit(function (event) {
+  		     		event.preventDefault();
+  		     	  var test = $("#id_email").val();
+            	if (test.length == 0)
+              {
+              	alert('You must provide an email address');
+            		return false;
+              }
+            
+  		     	  var formdata = "Name=" + $('#id_name').val() + "&" +
+  		     	  							 "ToAddress=contact@readtoday.com&" +
+  		     	  						 	 "Subject=" + $("#id_subject").val() + "&" +
+             							 	 "EmailAddress=" + $("#id_email").val() + "&" +
+             							 	 "Message=" + $("#id_message").val();
+			// Call Service
+						$.ajax({
+                type: "POST",
+                url: "https://capps.dmccore.com/mailer/EMailer.asmx/SendGenericEmail",
+                //url: "http://localhost:56642/EMailer.asmx/SendGenericEmail",
+                crossDomain: true,
+				        data:formdata, 
+				        dataType: "html",
+                success: function (data) {
+                	 alert("Your message has been sent. You will recieve a response as soon as possible");
+                },
+                error: function(err) {
+                	if (err.status == 0 && err.statusText != 'error' && err.statusText != 'Error: Access is denied.\r\n') {
+                		alert("Your message has been sent. You will recieve a response as soon as possible");
+                	} else { 
+                		if (err.responseText.length > 0) {
+                			alert(err.responseText);
+                		} else {
+                			alert('There was an error sending your message.');
+                  	}
+                	} 
+								}
+            });
+	        });
+        }); 
+	</script>
+
+</head>
+
+<body>
+
+<div id="wrapper">
+<div class="containment">
+    <header>
+    <a href="../index.html"><img id="logo" src="../static/images/read_today_logo.png" alt="Read Today"></a>
+    
+         <nav>
+        <ul id="main_nav">
+            <li><a href="../our-mission/index.html">Our Mission</a>
+
+            </li>
+            <li><a href="#">&nbsp;&nbsp;Programs&nbsp;&nbsp;</a>
+                <ul>
+                    <li><a href="../promotions/index.html">SUMMER READING </a></li>
+                    <li><a href="../get-involved/index.html">PIZZA PLEDGE</a></li>
+                    <li><a href="../volunteer/index.html">volunteer</a></li>
+                    
+                </ul>
+            </li>
+
+            <li><a href="#">Resources</a>
+                <ul>
+                     <li><a href="../123connect/index.html">123 Connect</a></li>
+                     <li><a href="../faqs/index.html">FAQs</a></li>
+                </ul>
+            </li>
+                <li><a href="#">&nbsp;&nbsp;&nbsp;&nbsp;Media&nbsp;&nbsp;&nbsp;&nbsp;</a>
+                <ul>
+                  <li><a href="../news-stories/index.html">News</a></li>
+                  <li><a href="../story/index.html">Share story</a></li>
+                </ul>
+            </li>
+            <li><a href="../contact/index.html">Contact</a></li>
+        </ul>
+    </nav>
+    </header>
+    
+
+<div id="page_content">
+
+<div class="row">
+<div class="col-md-9">
+            
+<div id="contact">
+
+<h1 class="page_title">Contact Us</h1>
+
+<div class="row">
+    
+    <h2 class="page_subtitle">To send us a message please complete<br>the form below and click send message.</h2>
+    
+    <form id="contact-form" method="POST">
+    	  <div class="row">
+            <div class="col-md-5">
+                <input id="id_name" maxlength="200" name="name" placeholder="name" required="required" type="text" /><br>
+                <input id="id_email" maxlength="200" name="email" placeholder="email" required="required" type="text" /><br>
+                <input id="id_subject" maxlength="200" name="subject" placeholder="subject" required="required" type="text" />
+            </div><!-- col-md-5 -->
+            
+            <div class="col-md-7">
+            
+                <textarea cols="40" id="id_message" name="message" required="required" rows="10">
+</textarea>
+                    
+            
+            </div><!-- col-md-7 -->
+        
+        </div><!-- row -->
+        
+        <input type="submit" name="send" id="send" value="send message">
+        
+    </form>
+    
+</div><!-- row -->
+
+</div><!-- our-mission -->
+
+        </div><!-- col-md-9 -->
+        
+        <div class="col-md-3">
+        
+            <!-- Volunteer -->
+                <div id="volunteer-circle">        
+                    <div class="circle-header">Volunteer</div>
+                    
+                    <div class="circle-text">Support your local school and make a difference in a child's life today.</div>
+                    
+                    <a href="../volunteer/index.html" target='_blank' class="circle-link" id="volunteer-link">Get Started <div class="right-arrow"></div></a>
+            
+                </div>        
+        
+            <!-- Promotions -->
+                <div id="promotions">
+                    <div class="circle-header">Summer Reading</div>
+                    
+                    <div class="circle-text">Sign up to receive more info on the Summer's best reading program.</div>
+                    
+                    <a href="../promotions/index.html " class="circle-link" id="promotion-link">Sign Up <div class="right-arrow"></div></a>
+                    
+                </div>
+                
+            <!-- Social -->    
+                <div id="social">        
+                    <div class="circle-header">Get Social</div>
+                    
+                    <div class="circle-text">We are uniting a culture of reading across the state. The movement begins with you. Join us.</div>
+                    
+                    <a href="../get-social/index.html"><div class="social-icon-container"></div></a>
+                    
+                </div>
+        </div>
+    </div><!-- row -->
+
+</div>
+
+
+
+</div><!-- containment -->
+
+</div><!-- wrapper -->
+
+<footer>
+    <div id="footer-links">
+    <a href="../terms-of-use/index.html">Terms of Use</a> &nbsp;|&nbsp; <a href="../dmca-notice/index.html">DMCA Notice</a> &nbsp;|&nbsp; <a href="../privacy-statement/index.html">Privacy Statement</a>
+    <img id="ksl_footer_logo" src="../static/images/ksl_footer_logo.png">
+    </div>
+</footer>
+
+
+
+
+</body>
+</html>

@@ -1,0 +1,452 @@
+<!DOCTYPE html>
+
+
+
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<title>Read Today</title>
+    <link rel="stylesheet" href="../static/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="../static/css/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" href="../static/css/main.css"/>
+    <link rel="stylesheet" href="../static/css/page.css"/>
+
+    
+    <!--[If lte IE10]>
+        <link rel="stylesheet" href="../static/css/ie.css" type="text/css">
+    <![endif]-->    
+    
+    <script type="text/javascript" src="../static/js/jquery.min.js"></script>    
+    <script type="text/javascript" src="../static/js/bootstrap.min.js"></script>
+
+</head>
+
+<body>
+
+<div id="wrapper">
+
+<div class="containment">
+
+    <header>
+    
+    <a href="../index.html"><img id="logo" src="../static/images/read_today_logo.png" alt="Read Today"></a>
+    
+   <nav>
+        <ul id="main_nav">
+            <li><a href="../our-mission/index.html">Our Mission</a>
+                <ul>
+                     <li><a href='../our-mission/index.html'>Mission</a></li>
+                     <li><a href='../about/index.html'>About Us</a></li>
+                </ul>
+            </li>
+            <li><a href="../sign-up/index.html">Programs</a>
+                <ul>
+                    <li><a href="../sign-up/index.html">Sign Up</a></li>
+                    <li><a href="../get-involved/index.html">Get Involved</a></li>
+                </ul>
+            </li>
+
+            <li><a href="#">Resources</a>
+                <ul>
+                    
+                             
+                     <li><a href="../123connect/index.html">123 Connect</a></li>
+                     <li><a href="../faqs/index.html">FAQs</a></li>
+                </ul>
+            </li>
+                <li><a href="../partners/index.html">&nbsp;&nbsp;&nbsp;Media&nbsp;&nbsp;&nbsp;</a>
+                <ul>
+                            <li><a href="../partners/index.html">Partners</a></li>
+                            <li><a href="#">Articles</a></li>
+                            <li><a href="../news-stories/index.html">New Stories</a></li>
+                            <li><a href="../newsletter/index.html">Newsletter</a></li>
+                            <li><a href="#">Share Story</a></li>
+                </ul>
+            </li>
+            <li><a href="../contact/index.html">Contact</a></li>
+        </ul>
+    </nav>
+    
+    </header>
+    
+    
+
+<div id="page_content">
+
+    <div class="row">
+        <div class="col-md-9">
+            
+<div id="partner">
+<h1 class="page_title">Partners</h1>
+
+<h2 class="page_subtitle">The success of Read Today hinges on the support of our partners.<br>To join the movement, email <a href="mailto:contact@readtoday.com">contact@readtoday.com</a></h2>
+
+<div class="row">
+    
+    <div class="col-md-7" style="padding-bottom: 450px;">
+    
+        <h3 class="partner-title">Our Partners</h3>
+        
+        <br><br>
+
+        
+        <div class="featured_box">
+            <a href="http://www.ksl.com/" target="_blank">
+              <img src="../assets/img/partners/1000px-KSL-TV_logo_svg.png" width="50px" height="50px">
+            </a>
+            
+            <br><br>
+            
+            <span style="color: #333333; font-family: Tahoma; font-size: 14px; line-height: 20px; text-align: justify;">KSL creates awareness, recruits tutors, and provides incentives and celebrations with Chopper 5 landings and literacy events.</span>
+        </div>
+        
+        <div class="featured_box">
+            <a href="http://www.utah.gov/governor/" target="_blank">
+                
+                    <img src="../media/cache/11/aa/11aa2aced0e5f1caa39177bddc26fe29.jpg">
+                
+            </a>
+            
+            <br><br>
+            
+            The office of Governor Gary Herbert and the First Lady joined forces with Read Today in 2015 to form the state's largest Summer Reading Program. The partnership reaches all K-6 students in Utah and celebrates literacy through fun incentives and prizes.
+        </div>
+        
+        <div class="featured_box">
+            <a href="http://www.deseretnews.com/home/" target="_blank">
+                
+                    <img src="../media/cache/a5/88/a58807590630ef9dab65a5b39c303788.jpg">
+                
+            </a>
+            
+            <br><br>
+            
+            The Deseret News is our print partner on the Read Today initiative. Every school in the Read Today program, has the opportunity to read our Monthly 123 Connect that provides educational resources and fun for all ages. For more information about getting 123 Connect into your school, visit <a href="www,deseretnews.com">www.deseretnews.com</a>
+        </div>
+        
+        <div class="featured_box">
+            <a href="http://prosperity2020.com/" target="_blank">
+                
+                    <img src="../media/cache/3c/e3/3ce3fbddfde599714ec498e78ff5bf7a.jpg">
+                
+            </a>
+            
+            <br><br>
+            
+            Prosperity 2020 believes in the power of parents, students, businesses, elected officials and members of our community, and that by going "all in" together, we can ensure all children will have a better future.
+        </div>
+        
+        <div class="featured_box">
+            <a href="http://www.nationalservice.gov/programs/americorps" target="_blank">
+                
+                    <img src="../media/cache/83/20/83209ae7cb7c0e91404e203c579f9111.jpg">
+                
+            </a>
+            
+            <br><br>
+            
+            <span style="color: #333333; font-family: Tahoma; font-size: 14px; line-height: 20px; text-align: justify;">Americorps administers the program, uses the USOE's STAR program to train volunteers, collects data and ensures quality and consistency.</span>
+        </div>
+        
+        <div class="featured_box">
+            <a href="http://www.worldwidebooks.org/" target="_blank">
+                
+                    <img src="../media/cache/3f/eb/3feb95655f8263639a0fb1a556df6a45.jpg">
+                
+            </a>
+            
+            <br><br>
+            
+            World Wide Book Drive is the main book supplier and distributor for Read Today.&nbsp;By placing secondhand books in the hands of dedicated readers, WWBD and proactive communities are revolutionizing the used-book industry.
+        </div>
+        
+        <div class="featured_box">
+            <a href="http://www.redstonedesign.com/" target="_blank">
+                
+                    <img src="../media/cache/b7/0e/b70ec6b9b70e2b1d04e17d5cb527f6de.jpg">
+                
+            </a>
+            
+            <br><br>
+            
+            Redstone Design provides Read Today with all of our promtional materials. From mood pencils to swirly hats, Redstone helps Read Today keep our deserving readers happy. For more information about Redstone Design or to receive their support in your organization, visit <a href="http://www.redstonedesign.com/">www.redstonedesign.com</a>
+        </div>
+        
+        <div class="featured_box">
+            <a href="http://www.unitedway.org/" target="_blank">
+                
+                    <img src="../media/cache/95/9e/959eda9a1abaf51818e23a315982f3f8.jpg">
+                
+            </a>
+            
+            <br><br>
+            
+            
+        </div>
+        
+        <div class="featured_box">
+            <a href="http://www.schools.utah.gov/curr/star/" target="_blank">
+                
+                    <img src="../assets/img/partners/STAR Logo color.png" width="50px" height="50px">
+            </a>
+            
+            <br><br>
+            
+            
+        </div>
+        
+        <div class="featured_box">
+            <a href="http://www.schools.utah.gov/main/" target="_blank">
+                
+                    <img src="../media/cache/10/9e/109e362a6a5c1624821a0845329813b1.jpg">
+                
+            </a>
+            
+            <br><br>
+            
+            
+        </div>
+        
+    
+    </div>
+    
+    <div class="col-md-5">
+    
+        <h3 class="partner-title">Our Supporters</h3>
+        
+        <div class="partner-logos">
+        
+            <div class="logo-box">
+            
+                <a href="www.homedepot.com" target="_blank"><img src="/media/cache/23/72/23723e4121edd887306c865783450573.jpg"></a>
+            
+            </div>
+        
+            <div class="logo-box">
+            
+                <a href="http://www.lhm.com/" target="_blank"><img src="/media/cache/e1/bf/e1bf92252d6bf40b3e4f82028f4ef791.jpg"></a>
+            
+            </div>
+        
+            <div class="logo-box">
+            
+                <a href="https://www.questargas.com/index.php" target="_blank"><img src="/media/cache/a2/14/a21480afb70198559dfe60facd0d15a4.jpg"></a>
+            
+            </div>
+        
+            <div class="logo-box">
+            
+                <a href="http://www.utahpta.org/" target="_blank"><img src="/media/cache/9b/ac/9bac9796a2f849f189cd938f3ac41806.jpg"></a>
+            
+            </div>
+        
+            <div class="logo-box">
+            
+                <a href="http://www.deseretmanagement.com/" target="_blank"><img src="/media/cache/b4/e2/b4e2ab16d2c1cf2bfedde30774403ba3.jpg"></a>
+            
+            </div>
+        
+            <div class="logo-box">
+            
+                <a href="http://www.futurehousepublishing.com/" target="_blank"><img src="/media/cache/44/2d/442df415cdae253d90aa64747310395e.jpg"></a>
+            
+            </div>
+        
+            <div class="logo-box">
+            
+                <a href="http://deseretbook.com/" target="_blank"><img src="/media/cache/f3/68/f368fb57cc381c4c7313cd42028856b4.jpg"></a>
+            
+            </div>
+        
+            <div class="logo-box">
+            
+                <a href="http://www.papamurphys.com/" target="_blank"><img src="../assets/img/partners/papamurphys.png"></a>
+            
+            </div>
+        
+            <div class="logo-box">
+            
+                <a href="https://www.smithsfoodanddrug.com/" target="_blank"><img src="/media/cache/86/29/8629cb652e996da2505a89c920a5be71.jpg"></a>
+            
+            </div>
+        
+            <div class="logo-box">
+            
+                <a href="http://www.milb.com/index.jsp?sid=t561" target="_blank"><img src="/media/cache/38/f6/38f6c49cf78ffab31241a067d47333a8.jpg"></a>
+            
+            </div>
+        
+            <div class="logo-box">
+            
+                <a href="http://www.holcim.us/" target="_blank"><img src="/media/cache/5f/b5/5fb51c4bc37128d35e8905b24ca5336a.jpg"></a>
+            
+            </div>
+        
+            <div class="logo-box">
+            
+                <a href="https://www.americafirst.com/" target="_blank"><img src="/media/cache/a8/f3/a8f355c870ce00f6ee5b27c8d7a1fc61.jpg"></a>
+            
+            </div>
+        
+            <div class="logo-box">
+            
+                <a href="http://greenrivercap.com/" target="_blank"><img src="/media/cache/79/a3/79a32976dec64bb0544199006ae31f0c.jpg"></a>
+            
+            </div>
+        
+            <div class="logo-box">
+            
+                <a href="http://ogdenmustangs.com/" target="_blank"><img src="/media/cache/11/bf/11bf40f26d0fb44144a2e1c07720c010.jpg"></a>
+            
+            </div>
+        
+            <div class="logo-box">
+            
+                <a href="http://www.symbolarts.com/" target="_blank"><img src="/media/cache/f3/87/f3872bfe4c3c30ae38a866e5da4a5c48.jpg"></a>
+            
+            </div>
+        
+            <div class="logo-box">
+            
+                <a href="https://www.jdclark.com/" target="_blank"><img src="/media/cache/82/b2/82b2ea683981403c1cb0a1399027b8da.jpg"></a>
+            
+            </div>
+        
+            <div class="logo-box">
+            
+                <a href="https://www.granite.org/" target="_blank"><img src="/media/cache/b3/97/b3976ae70bb132efb7355433bbb91116.jpg"></a>
+            
+            </div>
+        
+            <div class="logo-box">
+            
+                <a href="http://www.convergys.com/" target="_blank"><img src="/media/cache/72/7d/727d00dd94c53775068ff256fe4476b4.jpg"></a>
+            
+            </div>
+        
+            <div class="logo-box">
+            
+                <a href="http://www.malt-o-meal.com/" target="_blank"><img src="/media/cache/40/a0/40a0eacdddafb70f712a8bc9bd5624ee.jpg"></a>
+            
+            </div>
+        
+            <div class="logo-box">
+            
+                <a href="https://www.fmc-ag.com/" target="_blank"><img src="/media/cache/73/44/7344bb0b1ce7747a7cf78e1d4217b9f3.jpg"></a>
+            
+            </div>
+        
+            <div class="logo-box">
+            
+                <a href="https://www.chase.com" target="_blank"><img src="/media/cache/fa/4f/fa4f8e95840a664bad5ccf7e3cc7e3bf.jpg"></a>
+            
+            </div>
+        
+            <div class="logo-box">
+            
+                <a href="https://www.bankofutah.com/" target="_blank"><img src="/media/cache/ba/ad/baad6dfbc55a8f1195cc8a460c8573a6.jpg"></a>
+            
+            </div>
+        
+            <div class="logo-box">
+            
+                <a href="http://www.carlsjr.com/" target="_blank"><img src="/media/cache/cf/b7/cfb7c313ae380beb89eaf8af5e2c0cfb.jpg"></a>
+            
+            </div>
+        
+            <div class="logo-box">
+            
+                <a href="http://www.afstores.com/" target="_blank"><img src="/media/cache/9c/3e/9c3e24f49f70f7d0b64fb87f394cf070.jpg"></a>
+            
+            </div>
+        
+            <div class="logo-box">
+            
+                <a href="https://www.dfcu.com/" target="_blank"><img src="/media/cache/23/ad/23ade1ce6a30e5c17c1a666bae58b3fc.jpg"></a>
+            
+            </div>
+        
+            <div class="logo-box">
+            
+                <a href="https://www.ssfcu.org/en-us/Pages/default.aspx" target="_blank"><img src="/media/cache/b0/23/b02352533e1f5ca67d1123d36b451c4b.jpg"></a>
+            
+            </div>
+        
+            <div class="logo-box">
+            
+                <a href="http://www.mcdonalds.com/us/en/home.html" target="_blank"><img src="/media/cache/09/e9/09e9338af15cd1b2fd50dc6af53809fe.jpg"></a>
+            
+            </div>
+        
+            <div class="logo-box">
+            
+                <a href="http://www.ksl.com" target="_blank"><img src="/media/cache/7d/0e/7d0ef050a43cbbe6b03b14608991c6b4.jpg"></a>
+            
+            </div>
+        
+        
+            <div class="clear"></div>
+        </div>
+    
+    </div>
+    
+</div><!-- row -->
+
+</div>
+
+        </div><!-- col-md-9 -->
+        
+        <div class="col-md-3">
+        
+            <!-- Volunteer -->
+                <div id="volunteer-circle">        
+                    <div class="circle-header">Volunteer</div>
+                    
+                    <div class="circle-text">Support your local school and make a difference in a child's life today.</div>
+                    
+                    <a href="../volunteer/index.html" target='_blank' class="circle-link" id="volunteer-link">Get Started <div class="right-arrow"></div></a>
+            
+                </div>        
+        
+            <!-- Promotions -->
+                <div id="promotions">
+                    <div class="circle-header">Promotions</div>
+                    
+                    <div class="circle-text">The latest promotions, challenges, and events that keep reading fun, focused, and enjoyable for the whole family.</div>
+                    
+                    <a href="../promotions/index.html" class="circle-link" id="promotion-link">Sign Up <div class="right-arrow"></div></a>
+                    
+                </div>
+                
+            <!-- Social -->    
+                <div id="social">        
+                    <div class="circle-header">Get Social</div>
+                    
+                    <div class="circle-text">We are uniting a culture of reading across the state. The movement begins with you. Join us.</div>
+                    
+                    <a href="../get-social/index.html"><div class="social-icon-container"></div></a>
+                    
+                </div>
+        </div>
+    </div><!-- row -->
+
+</div>
+
+
+
+</div><!-- containment -->
+
+</div><!-- wrapper -->
+
+<footer>
+    <div id="footer-links">
+    <a href="../terms-of-use/index.html">Terms of Use</a> &nbsp;|&nbsp; <a href="../dmca-notice/index.html">DMCA Notice</a> &nbsp;|&nbsp; <a href="../privacy-statement/index.html">Privacy Statement</a>
+    <img id="ksl_footer_logo" src="../static/images/ksl_footer_logo.png">
+    </div>
+</footer>
+
+
+
+
+</body>
+</html>

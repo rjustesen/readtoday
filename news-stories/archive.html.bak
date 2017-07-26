@@ -1,0 +1,745 @@
+<!DOCTYPE html>
+
+
+
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<title>Read Today</title>
+    <link rel="stylesheet" href="../static/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="../static/css/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" href="../static/css/main.css"/>
+    <link rel="stylesheet" href="../static/css/page.css"/>
+
+    
+    <!--[If lte IE10]>
+        <link rel="stylesheet" href="/static/css/ie.css" type="text/css">
+    <![endif]-->    
+    
+    <script type="text/javascript" src="../static/js/jquery.min.js"></script>    
+    <script type="text/javascript" src="../static/js/bootstrap.min.js"></script>
+
+</head>
+
+<body>
+
+<div id="wrapper">
+
+<div class="containment">
+
+    <header>
+    
+    <a href="../index.html"><img id="logo" src="../static/images/read_today_logo.png" alt="Read Today"></a>
+    
+      <nav>
+        <ul id="main_nav">
+            <li><a href="../our-mission/index.html">Our Mission</a>
+
+            </li>
+            <li><a href="#">&nbsp;&nbsp;Programs&nbsp;&nbsp;</a>
+                <ul>
+                    <li><a href="../promotions/index.html">SUMMER READING </a></li>
+                    <li><a href="../get-involved/index.html">PIZZA PLEDGE</a></li>
+                    <li><a href="../volunteer/index.html">volunteer</a></li>
+                    
+                </ul>
+            </li>
+
+            <li><a href="#">Resources</a>
+                <ul>
+                    
+                             
+                     <li><a href="../123connect/index.html">123 Connect</a></li>
+                     <li><a href="../faqs/index.html">FAQs</a></li>
+                </ul>
+            </li>
+                <li><a href="#">&nbsp;&nbsp;&nbsp;&nbsp;Media&nbsp;&nbsp;&nbsp;&nbsp;</a>
+                <ul>
+                            
+                           
+                            <li><a href="../news-stories/index.html">News</a></li>
+                            <li><a href="../story/index.html">Share story</a></li>
+                            
+                </ul>
+            </li>
+            <li><a href="../contact/index.html">Contact</a></li>
+        </ul>
+    </nav>
+    
+    </header>
+    
+    
+
+<div id="page_content">
+    <div class="row">
+        <div class="col-md-9">          
+<h1 class="page_title">News</h1>
+
+
+<!-- news block -->
+<div class="news_story">
+    <div class="news_block">
+
+ <div class="embed-responsive embed-responsive-16by9">
+ 	<iframe class="embed-responsive-item" src="https://youtube.com/embed/WrmpqlbM-HY" frameborder="0" width="640" height="360"></iframe>
+</div>
+
+    <div class="date">  Oct 4, 2016</div>
+    
+    <div class="headline">Read.Graduate.Succeed Grant helping thousands of Utah kids</a></div>
+    
+    <p class="summary">Read Today stopped by Midvalley Elementary to celebrate a renewed three year, three million-dollar grant that would supply tutors to students that need help with reading. The tutoring program will help thousands of Utah kids receive the mentoring they need to read at grade level. Governor Gary Herbert was in attendance and said reading is such an important part of education and it plays a huge factor in what we choose to do when we grow up. The better readers we are, the better jobs we can get and the more successful we’ll be.</p>
+    
+    </div><!-- news_block -->
+
+<div class="clear"></div>
+
+<hr>
+
+</div><!-- news story -->
+
+    
+    <div class="news_block">
+
+    <div class="news_story">
+
+
+
+ <div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="https://youtube.com/embed/rwTiEvb1YGY" frameborder="0" width="640" height="360"></iframe>
+</div>
+
+
+    <div class="date">Oct 4, 2016</div>
+    
+    <div class="headline">Read.Graduate.Succeed grant celebration at Midvalley Elementary</a></div>
+    
+    <p class="summary">To help kick-off a great year ahead Read Today stopped by Midvalley Elementary to celebrate a renewed three year, three million-dollar grant that would supply tutors to students that need help with reading. The tutoring program will help thousands of Utah kids receive the mentoring they need to read at grade level.</p>
+    
+    </div><!-- news_block -->
+
+<div class="clear"></div>
+
+<hr>
+
+</div><!-- news story -->
+
+
+<div class="news_story">
+   
+    
+    <div class="news_block">
+
+
+ <div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="https://youtube.com/embed/58BS2YkG4CE" frameborder="0" width="640" height="360"></iframe>
+</div>
+
+    <div class="date">  Sep 2, 2016</div>
+    
+    <div class="headline">Celebrating a great Night at the Bees</a></div>
+    
+    <p class="summary">A big thank you to our readers for such a great Night at the Bees. Our Summer Reading Program was a huge success this year. Thousands of readers attended with their family in tow to collect some great prizes and enjoy a fun night out. Read Today’s Summer Reading Program is an education collaboration between Read Today, KSL, the Deseret News, The Governor’s Reading Program, The Salt Lake Bees, McDonald’s, Seagull Book and the Utah State Library. Kids who signed up for the program were tasked with reading 20 minutes a day during their summer break. Those who completed the challenge were rewarded with a pencil, a voucher for a free McDonald’s Happy Meal, a book and tickets to the Bees game. We had more readers in attendance than we ever had and hope to top that next year. If you missed out we would love to have you join our program next year. Just visit www.readtoday.com for more information about upcoming programs and reading challenges. Happy reading!</p>
+    
+    </div><!-- news_block -->
+
+<div class="clear"></div>
+
+<hr>
+
+</div><!-- news story -->
+
+
+<div class="news_story">
+    
+    <div class="news_block">
+
+
+<div class="embed-responsive embed-responsive-16by9">
+<iframe class="embed-responsive-item" src="https://youtube.com/embed/Ul7nDc-NWzo" frameborder="0" width="640" height="360"></iframe>
+</div>
+
+    <div class="date">Aug 9, 2016</div>
+    
+    <div class="headline">Read Today and Studio 5</a></div>
+    
+    <p class="summary">Kisses and hugs are usual ways to show affection, but this Valentines Day, the best way to show your love is to read to your kids at home. 
+
+KSL News anchor and Education Specialist Deanie Wimmer and KSL Read Today general Manager Elizabeth Reano share an extra incentive to do just that.</p>
+    
+    </div><!-- news_block -->
+
+<div class="clear"></div>
+
+<hr>
+
+</div><!-- news story -->
+
+
+<div class="news_story">
+
+    
+    <div class="news_block">
+
+    <div class="embed-responsive embed-responsive-16by9">
+<iframe class="embed-responsive-item" src="https://youtube.com/embed/GtGniEqHNk0" frameborder="0" width="640" height="360"></iframe>
+</div>
+
+
+    <div class="date">Jun 29, 2016</div>
+    
+    <div class="headline">KSL Read Today Feed and Read</a></div>
+    
+    <p class="summary">A summer program launched by Utahns Against Hunger to help children avoid the summer slide and not be hungry.</p>
+    
+    </div><!-- news_block -->
+
+<div class="clear"></div>
+
+<hr>
+
+</div><!-- news story -->
+
+
+<div class="news_story">
+
+    
+    <div class="news_block">
+
+ <div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="https://youtube.com/embed/tSvP0u0fFQU" frameborder="0" width="640" height="360"></iframe>
+</div>
+
+
+    <div class="date"> Aug. 5, 2015</div>
+    
+    <div class="headline">greenwood elementary 2016</a></div>
+    
+    <p class="summary">Readers welcomed Read Today with Gus the Gator, the Green G and a blowup slide! These gators read all Spring Break to show their commitment to reading.</p>
+    
+    </div><!-- news_block -->
+
+<div class="clear"></div>
+
+<hr>
+
+</div><!-- news story -->
+
+
+<div class="news_story">
+
+    
+    <div class="news_block">
+
+     <div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="https://youtube.com/embed/xKz28Bte80Q" frameborder="0" width="640" height="360"></iframe>
+</div>
+    <div class="date"> May 18, 2015</div>
+    
+    <div class="headline">"Swoop"ing in for storytime</a></div>
+    
+    <p class="summary">Swoop joins future college students at University of Utah for a celebration of reading and early childhood education! </p>
+    
+    </div><!-- news_block -->
+
+<div class="clear"></div>
+
+<hr>
+
+</div><!-- news story -->
+
+
+<div class="news_story">
+
+    
+    <div class="news_block">
+
+     <div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="https://youtube.com/embed/UjykEhOengI" frameborder="0" width="640" height="360"></iframe>
+</div>
+    <div class="date"> Mar 23, 2016</div>
+    
+    <div class="headline">Read Today and Papa Murphy's Pizza Pledge 2016</a></div>
+    
+    <p class="summary">The pledge is back. Join with your family to receive dinner on us! </p>
+    
+    </div><!-- news_block -->
+
+<div class="clear"></div>
+
+<hr>
+
+</div><!-- news story -->
+
+
+<div class="news_story">
+
+    
+    <div class="news_block">
+
+     <div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="https://youtube.com/embed/HTRDudRsN1s" frameborder="0" width="640" height="360"></iframe>
+</div>
+    <div class="date">  Mar 23, 2016</div>
+    
+    <div class="headline">Read Across America Celebration</div>
+    
+    <p class="summary">Students at Shelley Elementary had a visit from Chopper 5 to celebrate literacy. </p>
+    
+    </div><!-- news_block -->
+
+<div class="clear"></div>
+
+<hr>
+
+</div><!-- news story -->
+
+
+<div class="news_story">
+
+    
+    <div class="news_block">
+
+     <div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="https://youtube.com/embed/DEvLchwrkpA" frameborder="0" width="640" height="360"></iframe>
+</div>
+    <div class="date"> Nov 4, 2015</div>
+    
+    <div class="headline">Trick or Treat on Main St</a></div>
+    
+    <p class="summary">Costumed Kids in Park City were in for a real treat when Read Today handed out books AND candy at the annual event on Main St Park City! </p>
+    
+    </div><!-- news_block -->
+
+<div class="clear"></div>
+
+<hr>
+
+</div><!-- news story -->
+
+
+<div class="news_story">
+
+    
+    <div class="news_block">
+
+     <div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="https://youtube.com/embed/z0bp46l8sUI" frameborder="0" width="640" height="360"></iframe>
+</div>
+
+    <div class="date"> Oct 21, 2015</div>
+    
+    <div class="headline">Mighty Myton Readers</a></div>
+    
+    <p class="summary">Small rural elementary school in Myton makes huge turnaround in SAGE scores because of help from READ TODAY tutors.</p>
+    
+    </div><!-- news_block -->
+
+<div class="clear"></div>
+
+<hr>
+
+</div><!-- news story -->
+
+
+<div class="news_story">
+
+    
+    <div class="news_block">
+
+     <div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="https://youtube.com/embed/DgrjHu6P7z0" frameborder="0" width="640" height="360"></iframe>
+</div>
+
+
+    <div class="date"> Oct 19, 2015</div>
+    
+    <div class="headline">Retired Read Ride </a></div>
+    
+    <p class="summary">Spanish Fork students earned new bikes for reading all summer long to the seniors at Legacy House retirement center.</p>
+    
+    </div><!-- news_block -->
+
+<div class="clear"></div>
+
+<hr>
+
+</div><!-- news story -->
+
+
+<div class="news_story">
+ 
+    <div class="news_block">
+
+     <div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="https://youtube.com/embed/cQSSK9ncxEc" frameborder="0" width="640" height="360"></iframe>
+</div>
+
+
+    <div class="date"> Sep 22, 2015</div>
+    
+    <div class="headline">Sandy Chamber Invitation - READ TODAY</a></div>
+    
+    <p class="summary">We invite all members of the Sandy Chamber to help the struggling readers at Sandy Elementary make grade level.</p>
+    
+    </div><!-- news_block -->
+
+<div class="clear"></div>
+
+<hr>
+
+</div><!-- news story -->
+
+
+<div class="news_story">
+
+    <div class="news_block">
+
+     <div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="https://youtube.com/embed/x8fSF1R6G2U" frameborder="0" width="640" height="360"></iframe>
+</div>
+
+
+    <div class="date"> Sep 11, 2015</div>
+    
+    <div class="headline">United Way Day of Caring 2015 (DMC)</a></div>
+    
+    <p class="summary">Deseret Management Corporation and it's subsidiaries particpated in the largest service project in Utah, United Way Day of Caring. Over 100 volunteers helped students at Roosevelt Elementary. </p>
+    
+    </div><!-- news_block -->
+
+<div class="clear"></div>
+
+<hr>
+
+</div><!-- news story -->
+
+
+<div class="news_story">
+
+    <div class="news_block">
+
+     <div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="https://youtube.com/embed/orfoFpVqDuY" frameborder="0" width="640" height="360"></iframe>
+</div>
+
+
+    <div class="date"> Jun 2, 2015</div>
+    
+    <div class="headline">Read Today Book Festival 2015</a></div>
+    
+    <p class="summary">Thousands of Utah families gathered at the Read Today Summer Book Festival and SLCPD Five-O Fest to celebrate reading and public health and safety. For more information, visit www.readtoday.com</p>
+    
+    </div><!-- news_block -->
+
+<div class="clear"></div>
+
+<hr>
+
+</div><!-- news story -->
+
+
+<div class="news_story">
+  
+    
+    <div class="news_block">
+
+     <div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="https://youtube.com/embed/r8GNTsexfWw" frameborder="0" width="640" height="360"></iframe>
+</div>
+
+
+    <div class="date">Oct 14, 2014</div>
+    
+    <div class="headline">America First Credit Union Presentation</a></div>
+    
+    <p class="summary"></p>
+    
+    </div><!-- news_block -->
+
+<div class="clear"></div>
+
+<hr>
+
+</div><!-- news story -->
+
+
+<div class="news_story">
+
+    
+    <div class="news_block">
+
+     <div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="https://youtube.com/embed/o9AKqrfbkUU" frameborder="0" width="640" height="360"></iframe>
+</div>
+
+
+    <div class="date"> Jul 10, 2014</div>
+    
+    <div class="headline">7-year-old Girl's Birthday Wish to Donate Books</a></div>
+    
+    <p class="summary">SALT LAKE CITY — Most kids have a birthday wish list a mile long. Seven-year-old Abigail Walsh had only one request: no gifts, just books she could donate.</p>
+    
+    </div><!-- news_block -->
+
+<div class="clear"></div>
+
+<hr>
+
+</div><!-- news story -->
+
+
+<div class="news_story">
+
+    
+    <div class="news_block">
+
+     <div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="https://youtube.com/embed/asDFkgy_qOc" frameborder="0" width="640" height="360"></iframe>
+</div>
+
+
+    <div class="date"> Jun 3, 2014</div>
+    
+    <div class="headline">Rural kids get jumpstart on college for College Savings Day</a></div>
+    
+    <p class="summary">Chopper 5 landed at the school's Dream Job fair, where KSL representatives encouraged students to plan for college and careers, not just cattle.</p>
+    
+    </div><!-- news_block -->
+
+<div class="clear"></div>
+
+<hr>
+
+</div><!-- news story -->
+
+
+<div class="news_story">
+
+    
+    <div class="news_block">
+
+     <div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="https://youtube.com/embed/oXFRLNu-UVE" frameborder="0" width="640" height="360"></iframe>
+</div>
+
+
+    <div class="date"> May 2, 2014</div>
+    
+    <div class="headline">Read Today AmeriCorps Award Wins Innovative Award</a></div>
+    
+    <p class="summary">CLaDawn Stoddard, Executive Director of The Utah Commission on Service & Volunteerism explains why this program is so wonderful.</p>
+    
+    </div><!-- news_block -->
+
+<div class="clear"></div>
+
+<hr>
+
+</div><!-- news story -->
+
+
+<div class="news_story">
+
+    
+    <div class="news_block">
+
+     <div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="https://youtube.com/embed/ZupwfqVllcU" frameborder="0" width="640" height="360"></iframe>
+</div>
+
+
+    <div class="date">Apr 9, 2014</div>
+    
+    <div class="headline">Papa Murphy's Book Drive in Full Swing</a></div>
+    
+    <p class="summary">Donate 5 (or more) books at a participating Papa Murphy's and receive one free Mini Murph Make 'N Bake Pizza Kit! </p>
+    
+    </div><!-- news_block -->
+
+<div class="clear"></div>
+
+<hr>
+
+</div><!-- news story -->
+
+
+<div class="news_story">
+
+    <div class="news_block">
+
+     <div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="https://youtube.com/embed/J3WGF8gIUtY" frameborder="0" width="640" height="360"></iframe>
+</div>
+
+
+    <div class="date">Apr 9, 2014</div>
+    
+    <div class="headline">UPSTART Program Helps Preschoolers</a></div>
+    
+    <p class="summary">Waterford's UPSTART program uses technology to bridge the gap. </p>
+    
+    </div><!-- news_block -->
+
+<div class="clear"></div>
+
+<hr>
+
+</div><!-- news story -->
+
+
+<div class="news_story">
+
+    <div class="news_block">
+
+     <div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="https://youtube.com/embed/0DhJOSGd9qc" frameborder="0" width="640" height="360"></iframe>
+</div>
+
+
+    <div class="date"> Apr 1, 2014</div>
+    
+    <div class="headline">Drop 5 for the Book Drive</a></div>
+    
+    <p class="summary">From 3/31 - 4/20 Donate 5 (or more) books at a participating Papa Murphy's and receive one free Mini Murph Make 'N Bake Pizza Kit!</p>
+    
+    </div><!-- news_block -->
+
+<div class="clear"></div>
+
+<hr>
+
+</div><!-- news story -->
+
+
+<div class="news_story">
+
+    <div class="news_block">
+
+     <div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="https://youtube.com/embed/__cJ_NW6Fo4" frameborder="0" width="640" height="360"></iframe>
+</div>
+
+
+    <div class="date"> Mar 28, 2014</div>
+    
+    <div class="headline">Local Businesses Show Support - Read Today</a></div>
+    
+    <p class="summary">In an effort to make a difference in the community, businesses across the state have gone "all in" for education in Utah. They are spending 1 hour a week tutoring struggling readers. To join this movement, go to www.readtoday.com </p>
+    
+    </div><!-- news_block -->
+
+<div class="clear"></div>
+
+<hr>
+
+</div><!-- news story -->
+
+
+<div class="news_story">
+
+    <div class="news_block">
+
+     <div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="https://youtube.com/embed/r_nx4UwR-08" frameborder="0" width="640" height="360"></iframe>
+</div>
+
+
+    <div class="date">Mar 21, 2014</div>
+    
+    <div class="headline">We're All In </a></div>
+    
+    <p class="summary">A media campaign launched to make a difference in the lives of children. We believe in the power of parents, students, businesses, elected officials and members of our community, and that by going "all in" together, we can ensure all children will have a better future. To get involved, go to www.readtoday.com </p>
+    
+    </div><!-- news_block -->
+
+<div class="clear"></div>
+
+<hr>
+
+</div><!-- news story -->
+
+
+<div class="news_story">
+
+    
+    <div class="news_block">
+
+     <div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="https://youtube.com/embed/RwAghL__KgU" frameborder="0" width="640" height="360"></iframe>
+</div>
+
+
+    <div class="date"> Mar 3, 2014</div>
+    
+    <div class="headline">We're All In - RAISING HEART RATES</a></div>
+    
+    <p class="summary">A new media campaign by Prosperity 2020 and Read Today to put more volunteers into classrooms. To join the movement and go "all-in" for education in utah, go to www.readtoday.com</p>
+    
+    </div><!-- news_block -->
+
+<div class="clear"></div>
+
+<hr>
+
+</div><!-- news story -->
+
+
+
+
+        </div><!-- col-md-9 -->
+        
+        <div class="col-md-3">
+        
+            <!-- Volunteer -->
+                <div id="volunteer-circle">        
+                    <div class="circle-header">Volunteer</div>
+                    
+                    <div class="circle-text">Support your local school and make a difference in a child's life today.</div>
+                    
+                    <a href="../volunteer/index.html" target='_blank' class="circle-link" id="volunteer-link">Get Started <div class="right-arrow"></div></a>
+            
+                </div>        
+        
+            <!-- Promotions -->
+                <div id="promotions">
+                    <div class="circle-header">Summer Reading</div>
+                    
+                    <div class="circle-text">Sign up to receive more info on the Summer's best reading program.</div>
+                    
+                    <a href="../promotions/index.html" class="circle-link" id="promotion-link">Sign Up <div class="right-arrow"></div></a>
+                    
+                </div>
+                
+            <!-- Social -->    
+                <div id="social">        
+                    <div class="circle-header">Get Social</div>
+                    
+                    <div class="circle-text">We are uniting a culture of reading across the state. The movement begins with you. Join us.</div>
+                    
+                    <a href="../get-social/index.html"><div class="social-icon-container"></div></a>
+                    
+                </div>
+        </div>
+    </div><!-- row -->
+
+</div>
+
+
+
+</div><!-- containment -->
+
+</div><!-- wrapper -->
+
+<footer>
+    <div id="footer-links">
+    <a href="#">Terms of Use</a> &nbsp;|&nbsp; <a href="#">DMCA Notice</a> &nbsp;|&nbsp; <a href="#">Privacy Statement</a>
+    <img id="ksl_footer_logo" src="../static/images/ksl_footer_logo.png">
+    </div>
+</footer
+
+
+
+
+</body>
+</html>

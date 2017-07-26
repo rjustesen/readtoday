@@ -1,0 +1,508 @@
+.page_title {
+    color: #f58327;
+    text-transform: uppercase;
+    font-family: Dosis, sans-serif;
+    font-weight: bold;
+    font-size: 33px;
+    margin-top: 0;
+}
+
+.page_subtitle {
+    font-size: 22px;
+    font-family: Dosis, sans-serif;
+    color: #6fa315;
+    text-transform: uppercase;
+    font-weight: 400;
+    line-height: 150%;    
+}
+.page_subtitle > span {
+    font-weight:700;
+}
+#page_content {
+    width: 1060px;
+    margin: 40px 0 0 95px;
+}
+
+
+/************************************* Page Containers *************************************/
+#partner {
+    /*background: url("../images/rocket.png") no-repeat bottom left;*/
+}
+
+#our-mission {
+    background: url("../images/duck.png") no-repeat bottom right;
+    padding-bottom: 50px;
+}
+
+#contact {
+    /*background: url("../images/train.png") no-repeat bottom;*/
+    padding-bottom: 325px;
+}
+
+#volunteer_container {
+    background: url("../images/ship.png") no-repeat bottom;
+    padding-bottom: 250px;
+}
+
+#contact .col-md-5, #volunteer_container .col-md-5 {
+    padding-left: 0;
+}
+
+#social_container {
+    /*background: url("../images/UFO.png") no-repeat bottom;*/
+    padding-bottom: 225px;
+}
+
+#sign_up_container {
+    background: url("../images/kite.png") no-repeat top right;
+    padding-bottom: 170px;
+}
+
+#news_detail, #newsletter_container {
+    padding-bottom: 50px;
+}
+
+#students {
+    background: url("../images/coming_soon_robot.png") no-repeat bottom left;
+    height: 660px;
+}
+
+#faqs {
+    margin-bottom: 100px;
+}
+
+
+/************************************* Page Content *************************************/
+#page_content #promotions, #page_content #volunteer-circle, #page_content #social {
+    width: 193px;
+    height: 193px;
+    padding: 40px;
+    margin-top: 10px;
+}
+
+#page_content #promotions {
+    background: url("../images/orange-circle-medium.png") no-repeat;
+}
+
+#page_content #volunteer-circle {
+    background: url("../images/blue-circle-medium.png") no-repeat;
+}
+
+#page_content #social {
+    background: url("../images/green-circle-medium.png") no-repeat;
+    margin-bottom: 50px;
+}
+
+#page_content .circle-header {
+    font-size: 18px;
+    text-shadow: none;
+    font-weight: 400;
+}
+
+#page_content .circle-text {
+    font-size: 10px;
+}
+
+#page_content .circle-link {
+    width: 90px;
+    height: 20px;
+    font-size: 11px;
+    left: 27%;
+    bottom: 18%;    
+}
+
+#page_content .social-icon-container {
+    margin-top: 5px;
+    bottom: 17%;
+    background: url("../images/social-icons-small.png") no-repeat;    
+}
+
+#page_content .social-icon {
+    width: 23px;
+    height: 23px;
+
+}
+
+#page_content #twitter {
+    background-position: -31px;
+}
+
+#page_content #instagram {
+    background-position: -61px;
+}
+
+#page_content .col-md-7 {
+    padding-left: 0;
+    padding-right: 40px;
+}
+
+
+/************************************* Partners *************************************/
+.featured_box {
+    margin-bottom: 50px;
+    font-family: Tahoma;
+}
+
+.partner-title {
+    font-size: 16px;
+    text-transform: uppercase;
+    background: #f58327;
+    position: relative;
+    display: inline-block;
+    color: #fff;
+    font-family: Dosis, sans-serif;
+    padding: 10px 15px;
+    border-radius: 8px;
+    width: 289px;
+}
+
+.partner-logos {
+    margin-top: 10px;
+}
+
+.logo-box {
+    width: 125px;
+    height: 75px;
+    position: relative;
+    margin-bottom: 20px;
+}
+
+.logo-box:nth-child(odd) {
+    float: left;
+    clear: left;
+}
+
+.logo-box:nth-child(even) {
+    float: right;
+    clear: right;
+}
+
+.logo-box img {
+    max-width: 100%;
+    position: absolute;
+    margin: auto;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+}
+
+
+/************************************* Forms *************************************/
+#contact-form, #volunteer-form, #school-signup-form {
+    margin-top: 40px;
+    font-family: 'Lucida Grande', sans-serif;
+}
+
+#comment_form {
+    font-family: 'Lucida Grande', sans-serif;
+    display: block;
+    margin: 0 auto;
+    width: 525px;
+}
+
+#contact-form input[type="text"], #volunteer-form input[type="text"], #school-signup-form input[type="text"], #comment_form input[type="text"], #summer-signup-form input[type="text"], #summer-signup-form input[type="number"]{
+    width: 250px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    padding: 3px 10px;
+}
+
+#comment_form input[type="text"] {
+    margin-right: 10px;
+}
+
+#contact-form textarea {
+    width: 360px;
+    height: 118px;
+    border-radius: 5px;
+    border-color: #828282;    
+}
+
+#volunteer-form textarea {
+    width: 360px;
+    height: 210px;
+    padding: 3px 10px;
+    border-radius: 5px;
+    border-color: #828282;
+}
+
+#comment_form textarea {
+    border-radius: 5px;
+    border-color: #828282;
+    padding: 3px 10px;
+    height: 100px;
+    width: 513px;
+}
+
+#send, #volunteer_now, #sign_up, #promotion_button, #comment_button, #return {
+    color: #fff;
+    font-family: 'Bubblegum Sans', cursive;
+    font-size: 24px;
+    border: none;
+    border-radius: 8px;
+    width: 192px;
+    box-shadow: 5px 10px 10px #ebebeb;
+
+    background: #afca33; /* Old browsers */
+    background: -moz-linear-gradient(top,  #afca33 0%, #70a415 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#afca33), color-stop(100%,#70a415)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  #afca33 0%,#70a415 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  #afca33 0%,#70a415 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  #afca33 0%,#70a415 100%); /* IE10+ */
+    background: linear-gradient(to bottom,  #afca33 0%,#70a415 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#afca33', endColorstr='#70a415',GradientType=0 ); /* IE6-9 */
+}
+
+#comment_button {
+    font-size: 18px;
+    width: 100px;
+    margin-top: 10px;    
+}
+
+#return {
+    width: 100px;
+    margin-top: 25px;
+    font-size: 18px;
+    padding: 3px 10px;
+}
+
+#return:hover {
+    text-decoration: none;
+}
+
+#school-signup-form select {
+    border: none;
+    width: 250px;
+    height: 30px;
+}
+
+#id_home_city {
+    display: none;
+}
+
+
+/************************************* Large Social Icons *************************************/
+#social_container .col-md-3 {
+    padding-left: 0;
+}
+
+#social_container a:hover {
+    text-decoration: none;
+}
+
+.large_social {
+    display: block;
+    margin: 40px auto 20px;
+}
+
+.large_social_text {
+    text-transform: uppercase;
+    font-size: 22px;
+    text-align: center;
+}
+
+#large_facebook {
+    color: #0089ce;
+}
+
+#large_twitter {
+    color: #f58327;
+}
+
+#large_instagram {
+    color: #5c7534;
+}
+
+
+/************************************* School List *************************************/
+.school_district, .comment_name {
+    color: #F58327;
+    text-transform: uppercase;
+    font-size: 14px;
+}
+
+.school_list {
+    column-count: 2;
+    -webkit-column-count: 2;
+    -moz-column-count: 2;    
+    color: #679ac9;
+    margin-bottom: 50px;
+}
+
+.school_type {
+    font-size: 16px;
+    font-family: Dosis, sans-serif;
+    font-weight: bold;
+}
+
+
+/************************************* News Stories *************************************/
+.news_story {
+    margin-top: 50px;
+}
+
+.news_story:last-child {
+    margin-bottom: 50px;
+}
+
+.news_story:last-child hr {
+    display: none;
+}
+
+.news_image {
+    float: left;
+    max-width: 200px;
+}
+
+.news_detail_image {
+    max-width: 90%;
+    margin: 20px 0;
+    display: block;
+}
+
+.news_block {
+    float: left;
+    width: 550px;
+    padding: 0 10px;
+}
+
+.date, .leave_comment {
+    color: #8f8f8f;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+
+.headline {
+    font-size: 19px;
+    font-family: Dosis, sans-serif;
+    color: #6fa315;
+    text-transform: uppercase;
+    font-weight: 400;
+    margin: 0.3em 0;
+}
+
+.headline a {
+    color: #6fa315;
+}
+
+hr {
+    height: 2px;
+    border-color: #d1d1d1;
+    background: #d1d1d1;
+}
+
+.date img {
+    vertical-align: top;
+    padding-top: 2px;
+}
+
+
+/************************************* Newsletter *************************************/
+#newsletter_container .news_story {
+    margin-top: 10px;
+}
+
+.newsletter_images {
+    float: left;
+}
+
+.preview_page {
+    width: 108px;
+    height: 139px;
+    border: 1px solid #cccccc;
+    margin-right: 10px;
+}
+
+#download_file {
+    font-size: 12px;
+    text-align: center;
+    text-transform: uppercase;
+    width: 101px;
+    display: block;
+    background: #ee8534;
+    color: #fff;
+    border-radius: 10px;
+    padding: 4px;
+    margin-top: 10px;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+}
+
+#download_file .right-arrow {
+    border-left: 5px solid #fff;
+    border-top: 5px solid transparent;
+    border-bottom: 5px solid transparent;    
+}
+
+#download_file:hover {
+    text-decoration: none;
+}
+
+.news_block.newsletter {
+    padding: 0 10px;
+    width: 500px;
+}
+
+
+/************************************* FAQ's *************************************/
+.group {
+    color: #F58327;
+    text-transform: uppercase;
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+
+.question {
+    color: #0089ce;
+    text-transform: uppercase;
+    font-size: 18px;
+}
+
+
+/************************************* Promotions *************************************/
+.image_video, .promotional_text {
+    float: left;
+}
+
+.image_video {
+    max-width: 390px;
+}
+
+.promotional_text {
+    width: 345px;
+    margin-left: 30px;
+}
+
+.promotional_text #inner {
+    margin-left:-30px;
+    width:775px;
+}
+
+#promotion_button {
+    display: block;
+    text-align: center;
+    margin-top: 20px;
+}
+
+#promotion_button:hover {
+    text-decoration: none;
+}
+
+
+/************************************* Promotions *************************************/
+.comment_box {
+    width: 600px;
+    margin: 10px auto;
+    border: #d1d1d1 solid 2px;
+    padding: 10px;
+}
+
+.comment_name {
+    font-size: 18px;
+}
+
+.comment_box .date {
+    font-size: 14px;
+    margin-bottom: 5px;
+}
